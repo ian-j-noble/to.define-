@@ -1,0 +1,24 @@
+the․duck｛(function return):
+
+  import userArgs
+   as argsArray;
+
+  if （argsArray＝＝expectedArgsArray）
+    new numericalResult ＝ run․loop（argsArray）;
+⁄∗ else
+    new numericalResult ＝ run․loop（expectedArgsArray）;
+∗⁄
+
+define.new object(numericalResult(args）｛
+returnData ＝ （narrowResult ＝ run․（broad（analysis․loop（（args）））;
+
+return returnData;
+⁄∗returns to˸
+    ＂define（numericalResult（․․․․＂
+    ∗⁄ 
+
+return new ≺internal≻numericalResult; 
+⁄∗ returns to˸ 
+    ＂run․loop（argsArray）;＂
+    ＂run․loop（exepctedArgsArray）;＂
+∗⁄
