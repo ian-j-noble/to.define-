@@ -1,3 +1,12 @@
+/*
+
+If you open a process
+       close a process
+If you create a new obect
+       destroy that object on resolution.
+*/
+
+
 the․duck｛(function return):
 
   import userArgs
